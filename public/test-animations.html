@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animation Test</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 300vh;
+            padding: 20px;
+        }
+
+        .section {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 50px 0;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+            padding: 40px;
+            color: white;
+        }
+
+        .section h2 {
+            font-size: 2.5rem;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        .content {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            width: 100%;
+            max-width: 1200px;
+        }
+
+        .item {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+        }
+
+        /* Animations */
+        @keyframes slideInLeft {
+            from {
+                transform: translateX(-100px);
+                opacity: 0;
+            }
+            to {
+                transform: translateX(0);
+                opacity: 1;
+            }
+        }
+
+        @keyframes slideInRight {
+            from {
+                transform: translateX(100px);
+                opacity: 0;
+            }
+            to {
+                transform: translateX(0);
+                opacity: 1;
+            }
+        }
+
+        @keyframes slideInUp {
+            from {
+                transform: translateY(100px);
+                opacity: 0;
+            }
+            to {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+
+        .slide-in-left {
+            opacity: 0;
+            transform: translateX(-100px);
+        }
+
+        .slide-in-left.animate-on-scroll {
+            animation: slideInLeft 0.7s ease-in-out forwards;
+        }
+
+        .slide-in-right {
+            opacity: 0;
+            transform: translateX(100px);
+        }
+
+        .slide-in-right.animate-on-scroll {
+            animation: slideInRight 0.7s ease-in-out forwards;
+        }
+
+        .slide-in-up {
+            opacity: 0;
+            transform: translateY(100px);
+        }
+
+        .slide-in-up.animate-on-scroll {
+            animation: slideInUp 0.7s ease-in-out forwards;
+        }
+    </style>
+</head>
+<body>
+    <section class="section">
+        <div>
+            <h2 class="slide-in-left">Welcome to Animation Test</h2>
+            <p style="font-size: 1.2rem; text-align: center;">Scroll down to see animations trigger</p>
+        </div>
+    </section>
+
+    <section class="section">
+        <div>
+            <h2 class="slide-in-left">Section 1: Left Slides</h2>
+            <div class="content">
+                <div class="item slide-in-left">Item 1</div>
+                <div class="item slide-in-left">Item 2</div>
+                <div class="item slide-in-left">Item 3</div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div>
+            <h2 class="slide-in-right">Section 2: Right Slides</h2>
+            <div class="content">
+                <div class="item slide-in-right">Item 1</div>
+                <div class="item slide-in-right">Item 2</div>
+                <div class="item slide-in-right">Item 3</div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div>
+            <h2 class="slide-in-up">Section 3: Up Slides</h2>
+            <div class="content">
+                <div class="item slide-in-up">Item 1</div>
+                <div class="item slide-in-up">Item 2</div>
+                <div class="item slide-in-up">Item 3</div>
+            </div>
+        </div>
+    </section>
+
+    <script>
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach((entry) => {
+                if (entry.isIntersecting) {
+                    const animatedElements = entry.target.querySelectorAll('[class*="slide-in"]');
+                    animatedElements.forEach((el, index) => {
+                        el.style.animationDelay = `${index * 0.1}s`;
+                        el.classList.add('animate-on-scroll');
+                        console.log('Animated element:', el.textContent);
+                    });
+                }
+            });
+        }, {
+            threshold: 0.1,
+            rootMargin: '0px 0px -80px 0px'
+        });
+
+        document.querySelectorAll('.section').forEach(section => {
+            observer.observe(section);
+        });
+    </script>
+</body>
+</html>
