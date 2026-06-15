@@ -9,7 +9,6 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: 'YourWave - Premium Surf School',
   description: 'Leading surfing school offering personalized lessons, professional instruction, and a community of surfers.',
-  generator: 'v0.app',
 }
 
 export const viewport = {
