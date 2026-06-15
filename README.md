@@ -29,29 +29,3 @@ All sections have smooth animations:
 
 ---
 
-## 📱 Mobile & Desktop
-
-- ✓ All animations work smoothly on both devices
-- ✓ Mobile: 0.5-0.6s, 50px distance
-- ✓ Desktop: 0.7-0.8s, 100px distance
-- ✓ Touch-friendly (44px+ buttons)
-- ✓ Respects accessibility preferences
-
----
-
-## 🛠️ If You Get Errors
-
-**Port 3000 busy?**
-```bash
-pnpm dev -- -p 3001
-```
-
-**Page won't load?**
-```bash
-# Stop with Ctrl+C, then:
-pnpm install
-pnpm dev
-```
-
----
-
