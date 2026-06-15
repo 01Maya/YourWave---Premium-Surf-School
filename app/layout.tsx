@@ -7,7 +7,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'YourWave - Premium Surf School',
+  title: 'YourWave - Premium Surf School 🏄‍♂️',
   description: 'Leading surfing school offering personalized lessons, professional instruction, and a community of surfers.',
 }
 
