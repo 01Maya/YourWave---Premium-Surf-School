@@ -55,15 +55,3 @@ pnpm dev
 
 ---
 
-## 📝 Customizing Animations
-
-Edit `/app/globals.css`:
-
-```css
-.slide-in-left {
-  animation: slideInLeft 0.7s ease-in-out forwards;  /* Change 0.7s duration */
-}
-```
-
----
-
