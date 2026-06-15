@@ -76,22 +76,3 @@ Edit `/app/globals.css`:
 
 ---
 
-## 📦 Project Structure
-
-```
-components/
-  ├── hero.tsx
-  ├── features.tsx
-  ├── tips-banner.tsx
-  ├── who-for.tsx
-  ├── gallery.tsx
-  ├── faq.tsx
-  ├── contact.tsx
-  └── footer.tsx
-
-app/
-  ├── globals.css (all animations here)
-  └── layout.tsx
-```
-
-
