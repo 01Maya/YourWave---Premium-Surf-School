@@ -67,12 +67,3 @@ Edit `/app/globals.css`:
 
 ---
 
-## 📚 Documentation Files
-
-- `RUN_PROJECT.txt` - Quick reference
-- `SETUP.md` - Full setup guide
-- `ANIMATIONS_INFO.md` - Detailed animation docs
-- `COMPLETE_CHECKLIST.md` - What's included
-
----
-
