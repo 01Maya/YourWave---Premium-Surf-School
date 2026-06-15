@@ -106,6 +106,3 @@ app/
 ✓ Performance optimized (60fps)
 ✓ Accessibility built-in
 
----
-
-**Ready to start?** Run: `pnpm install && pnpm dev`
