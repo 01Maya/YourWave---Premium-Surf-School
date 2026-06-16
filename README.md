@@ -6,3 +6,11 @@ YourWave is a modern and visually immersive surfing school landing page designed
 The website combines bold typography, smooth animations, interactive sections, and responsive layouts to create a highly engaging UI/UX.
 
 ---
+
+## Description
+
+This landing page is crafted with a clean blue gradient aesthetic inspired by ocean waves and tropical surfing culture.  
+It includes animated bento-grid layouts, smooth section navigation, hover interactions, FAQ accordions, gallery sections, and contact forms.  
+The design focuses on minimal yet premium visuals while maintaining responsiveness and accessibility across all devices.
+
+---
