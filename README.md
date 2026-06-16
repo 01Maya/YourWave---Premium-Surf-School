@@ -7,7 +7,7 @@ The website combines bold typography, smooth animations, interactive sections, a
 
 ---
 
-## Description
+## Description 📃
 
 This landing page is crafted with a clean blue gradient aesthetic inspired by ocean waves and tropical surfing culture.  
 It includes animated bento-grid layouts, smooth section navigation, hover interactions, FAQ accordions, gallery sections, and contact forms.  
