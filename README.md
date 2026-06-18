@@ -24,7 +24,8 @@ The design focuses on minimal yet premium visuals while maintaining responsivene
 - Modern FAQ Accordion
 - Gradient Ocean UI Theme
 - Mobile Friendly Navigation
-
+- Floating Hover Cards
+- Smooth Ease-In-Out Transitions
 
 
 
