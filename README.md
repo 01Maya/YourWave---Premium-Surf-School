@@ -28,4 +28,4 @@ The design focuses on minimal yet premium visuals while maintaining responsivene
 - Smooth Ease-In-Out Transitions
 
 
-
+# 🧩 Section Descriptions
