@@ -18,5 +18,6 @@ The design focuses on minimal yet premium visuals while maintaining responsivene
 # Features ✨
 
 - Fully Responsive Design
+- Smooth Slide In / Slide Out Animations
 
 
