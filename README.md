@@ -14,3 +14,8 @@ It includes animated bento-grid layouts, smooth section navigation, hover intera
 The design focuses on minimal yet premium visuals while maintaining responsiveness and accessibility across all devices.
 
 ---
+
+# ✨ Features
+
+
+
