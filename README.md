@@ -17,5 +17,6 @@ The design focuses on minimal yet premium visuals while maintaining responsivene
 
 # Features ✨
 
+- Fully Responsive Design
 
 
