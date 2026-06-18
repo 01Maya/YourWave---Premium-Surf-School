@@ -20,6 +20,8 @@ The design focuses on minimal yet premium visuals while maintaining responsivene
 - Fully Responsive Design
 - Smooth Slide In / Slide Out Animations
 - Hover Scaling & Interactive Effects
+- Smooth Scroll Navigation to Sections
+
 
 
 
