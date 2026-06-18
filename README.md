@@ -29,4 +29,4 @@ The design focuses on minimal yet premium visuals while maintaining responsivene
 
 ---
 
-# 🧩 Section Descriptions
+# Section Descriptions 🧩 
