@@ -27,5 +27,6 @@ The design focuses on minimal yet premium visuals while maintaining responsivene
 - Floating Hover Cards
 - Smooth Ease-In-Out Transitions
 
+---
 
 # 🧩 Section Descriptions
