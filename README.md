@@ -23,6 +23,7 @@ The design focuses on minimal yet premium visuals while maintaining responsivene
 - Smooth Scroll Navigation to Sections
 - Modern FAQ Accordion
 - Gradient Ocean UI Theme
+- Mobile Friendly Navigation
 
 
 
