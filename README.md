@@ -30,3 +30,6 @@ The design focuses on minimal yet premium visuals while maintaining responsivene
 ---
 
 # Section Descriptions 🧩 
+
+### Hero Section
+Displays the main surfing school introduction with CTA buttons and ocean-inspired visuals.
