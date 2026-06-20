@@ -46,4 +46,6 @@ Explains who the surfing school is designed for including beginners, kids, and g
 ### Gallery Section
 Displays immersive surfing photography and wave visuals in a responsive grid.
 
+### FAQ Section
+Provides answers to commonly asked surfing and lesson-related questions.
 
