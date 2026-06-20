@@ -39,3 +39,6 @@ Highlights personalized programs, instructors, safety, and surfing experience ca
 
 ### Tips Banner
 Shows top surfing tips with animated gradient overlays and CTA interaction.
+
+### Audience Section
+Explains who the surfing school is designed for including beginners, kids, and groups.
