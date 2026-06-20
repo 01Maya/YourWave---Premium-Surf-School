@@ -33,3 +33,7 @@ The design focuses on minimal yet premium visuals while maintaining responsivene
 
 ### Hero Section
 Displays the main surfing school introduction with CTA buttons and ocean-inspired visuals.
+
+### Features Section
+Highlights personalized programs, instructors, safety, and surfing experience cards.
+
