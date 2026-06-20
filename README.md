@@ -37,3 +37,5 @@ Displays the main surfing school introduction with CTA buttons and ocean-inspire
 ### Features Section
 Highlights personalized programs, instructors, safety, and surfing experience cards.
 
+### Tips Banner
+Shows top surfing tips with animated gradient overlays and CTA interaction.
