@@ -58,7 +58,7 @@ Contains navigation links, legal pages, course links, and branding information.
 ---
 
 
-# 🛠️ Tech Stack
+# Tech Stack 🛠️
 
 - Next.js
 - Tailwind CSS
