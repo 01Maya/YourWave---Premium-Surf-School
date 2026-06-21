@@ -59,3 +59,7 @@ Contains navigation links, legal pages, course links, and branding information.
 
 
 # 🛠️ Tech Stack
+
+- Framer Motion
+- Shadcn UI
+
