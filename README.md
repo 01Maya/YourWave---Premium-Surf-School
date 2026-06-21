@@ -52,3 +52,5 @@ Provides answers to commonly asked surfing and lesson-related questions.
 ### Contact Section
 Includes inquiry form, contact information, and location details.
 
+### Footer Section
+Contains navigation links, legal pages, course links, and branding information.
