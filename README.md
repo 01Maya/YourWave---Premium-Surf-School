@@ -54,3 +54,5 @@ Includes inquiry form, contact information, and location details.
 
 ### Footer Section
 Contains navigation links, legal pages, course links, and branding information.
+
+# 🛠️ Tech Stack
