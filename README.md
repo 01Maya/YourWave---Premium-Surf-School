@@ -60,6 +60,8 @@ Contains navigation links, legal pages, course links, and branding information.
 
 # 🛠️ Tech Stack
 
+- Next.js
+- Tailwind CSS
 - Framer Motion
 - Shadcn UI
 
