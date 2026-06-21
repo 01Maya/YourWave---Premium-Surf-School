@@ -49,3 +49,6 @@ Displays immersive surfing photography and wave visuals in a responsive grid.
 ### FAQ Section
 Provides answers to commonly asked surfing and lesson-related questions.
 
+### Contact Section
+Includes inquiry form, contact information, and location details.
+
