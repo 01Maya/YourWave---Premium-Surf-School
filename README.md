@@ -65,3 +65,4 @@ Contains navigation links, legal pages, course links, and branding information.
 - Framer Motion
 - Shadcn UI
 
+---
