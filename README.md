@@ -69,7 +69,7 @@ Contains navigation links, legal pages, course links, and branding information.
 
 # 📸  Preview
 
-yourwave-surfschool.vercel.app/
+https://yourwave-surfschool.vercel.app/
 
 ---
 
