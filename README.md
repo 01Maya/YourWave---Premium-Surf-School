@@ -74,3 +74,5 @@ Contains navigation links, legal pages, course links, and branding information.
 ---
 
 # 🖼️ Screenshot
+
+<img width="1763" height="6886" alt="Image" src="https://github.com/user-attachments/assets/0d399fba-b28e-44fa-b734-92b07348e7b6" />
