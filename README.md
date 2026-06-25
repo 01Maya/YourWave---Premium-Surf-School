@@ -79,4 +79,8 @@ https://yourwave-surfschool.vercel.app/
 
 ---
 
+# 🚀 Installation
+
+
+
 
