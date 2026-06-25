@@ -79,12 +79,11 @@ https://yourwave-surfschool.vercel.app/
 
 ---
 
-# 🚀 Installation
+# Installation 🚀 
 
 ```bash
 npm install
 npm run build
 npm run dev
 ```
-
 ---
