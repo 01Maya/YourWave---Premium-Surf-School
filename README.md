@@ -81,6 +81,9 @@ https://yourwave-surfschool.vercel.app/
 
 # 🚀 Installation
 
-
-
+```bash
+npm install
+npm run build
+npm run dev
+```
 
