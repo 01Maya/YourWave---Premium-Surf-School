@@ -1,4 +1,4 @@
-# 🌊 YourWave – Surfing School Landing Page
+# 🌊 YourWave – Surfing School Landing Page 🏄‍♂️
 
 ## Overview 🖋️
 
