@@ -88,7 +88,7 @@ npm run dev
 ```
 ---
 
-# 👨‍💻 Developed For
+#  Developed For 👨‍💻
 
 Modern surfing schools, beach camps, travel agencies, and ocean activity businesses looking for a premium digital presence.
 
